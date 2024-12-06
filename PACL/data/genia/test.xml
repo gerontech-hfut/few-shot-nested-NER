@@ -1,0 +1,27 @@
+<sentence>
+    In addition, both heat and
+    <cons lex="cadmium" sem="G#inorganic">
+        cadmium
+    </cons>
+    produced an increase in the amount of the
+    <cons lex="intermediate_filament_protein" sem="G#protein_family_or_group">
+        intermediate filament protein
+    </cons>
+    <cons lex="vimentin" sem="G#protein_molecule">
+        vimentin
+    </cons>
+    , as determined by
+    <cons lex="(AND immunoblot_assay immunofluorescence_assay)" sem="(AND G#other_name G#other_name)">
+        <cons lex="immunoblot*">
+            immunoblot
+        </cons>
+        and
+        <cons lex="immunofluorescence*">
+            immunofluorescence
+        </cons>
+        <cons lex="*assay">
+            assays
+        </cons>
+    </cons>
+    .
+</sentence>
